@@ -14,6 +14,6 @@ What does this Brute Forcer do?
 When the username (Username, not Display name.) is put in It extracts the token of that discord user. (Again for educational purposes only.) It then uses that to give you the email and password.
 ============================================
 
-I Do not condone or support any malicious action with this program.
+I do not condone or support any malicious action with this program.
 
 Made by gluccasmolders-stack
